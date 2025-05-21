@@ -18,5 +18,10 @@ Pharmacovigilance: Enhanced adverse event detection and management.
 ## Installation
 **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/AmazonRecommendationSystem.git
-   cd AmazonRecommendationSystem
+   git clone https://github.com/Gurjot-gSingh/Pharma-Ai.git
+   cd Pharma-Ai
+```
+## Install requirements
+```bash
+   pip install -r requirements.txt
+```
