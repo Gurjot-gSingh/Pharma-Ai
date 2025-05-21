@@ -1,0 +1,5 @@
+gradio
+google-generativeai
+# https://gradio-pypi-previews.s3.amazonaws.com/39e3e0c2f82d7b3fa969093d53c6f7188edace08/gradio-5.10.0-py3-none-any.whl
+sentence-transformers
+datasets
